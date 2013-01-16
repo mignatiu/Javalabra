@@ -1,0 +1,3 @@
+16.1 : 
+-Github setup, 5min 
+-aiheenKuvausJaRakenne.txt, 2 min

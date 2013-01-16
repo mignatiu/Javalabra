@@ -1,0 +1,4 @@
+Aihe: 15x15 Ristinolla
+
+-Pelaaja vastaan teköäly
+-Highscore lista (vähemmän siirtoja pelaajalta = enemmän pisteitä)
